@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeafTechlord
 - 👀 I’m interested in coding/informational technician
 - 🌱 I’m currently learning programming language such as Python
-- 📫 How to reach me deaftechlord@skiff.com
+- 📫 How to reach me dtlshea@att.net
 
 <!---
 DeafTechlord/DeafTechlord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
