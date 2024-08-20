@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeafTechlord
 - 👀 I’m interested in coding/informational technician
-- 🌱 I’m currently learning programming language such as Python and Typescript.
+- 🌱 I’m currently learning programming language such as Python
 - 📫 How to reach me deaftechlord@skiff.com
 
 <!---
