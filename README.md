@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DeafTechlord
-- 👀 I’m interested in coding/informational technician
-- 🌱 I’m currently learning programming language such as Python
+- 👀  I’m currently learning how to develop games with Grok 3
 - 📫 How to reach me dtlshea@att.net
 
 <!---
