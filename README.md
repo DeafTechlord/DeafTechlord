@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeafTechlord
-- 👀  I’m currently learning how to develop games with Grok 3
+- 👀  I’m currently learning how to develop games with AI
 - 📫 How to reach me dtlshea@att.net
 
 <!---
