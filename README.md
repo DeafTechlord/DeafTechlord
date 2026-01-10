@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeafTechlord
-- 👀  I’m currently learning how to develop games with AI
-- 📫 How to reach me dtlshea@att.net
+- 👀  I’m currently learning how to develop games/websites with AI
+- 📫 How to reach me joeshea.business@proton.me
 
 <!---
 DeafTechlord/DeafTechlord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
